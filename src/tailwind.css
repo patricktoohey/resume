@@ -18,7 +18,7 @@ input:-webkit-autofill:active {
   }
 
   h3 {
-    @apply text-xl
+    @apply text-xl mt-2
   }
 
   h4 {
@@ -35,10 +35,6 @@ input:-webkit-autofill:active {
 
   .section-subtitle {
     @apply text-3xl
-  }
-
-  section {
-    @apply mt-3
   }
 }
 
